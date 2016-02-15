@@ -1,4 +1,3 @@
-import de.kempkensebastian.poolday.A03methoden.SimpleLogger
 
 import scala.math._
 
